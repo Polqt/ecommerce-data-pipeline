@@ -4,9 +4,9 @@ SQLAlchemy==2.0.36
 snowflake-connector-python==3.12.4
 
 # Data Processing
-pandas==2.2.3
-numpy==2.1.0
-pyarrow==20.0.0
+pandas==2.1.0
+numpy==1.24.0
+pyarrow==18.1.0
 
 # AWS Integration
 boto3==1.35.77
